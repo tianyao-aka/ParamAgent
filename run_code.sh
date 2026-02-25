@@ -1,8 +1,5 @@
 # HumanEval Benchmark Examples
 #
-#! Note: Since our retroformer model is hosted on Together AI service, the model_id would
-#! leak author identity information. Therefore, the retroformer code is not included in
-#! the submitted code.
 
 # Simple baseline (single attempt, no reflection)
 python main.py \

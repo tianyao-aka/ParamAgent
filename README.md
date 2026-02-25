@@ -20,3 +20,4 @@ export TOGETHER_API_KEY=<your key>
 ## Usage
 
 See `run_code.sh` for example commands.
+

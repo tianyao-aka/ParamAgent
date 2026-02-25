@@ -65,7 +65,6 @@ def messages_to_str(messages: List[Message]) -> str:
     return "\n".join([message_to_str(message) for message in messages])
 
 
-
 @retry(wait=wait_random_exponential(min=1, max=180), stop=stop_after_attempt(6))
 def aliyun_chat(
     model: str,
