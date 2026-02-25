@@ -1,4 +1,4 @@
-# Diversity of Thoughts
+# ParamAgent
 
 ## Setup
 
