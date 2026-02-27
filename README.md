@@ -39,4 +39,4 @@ python LoRA_Llama3_Code_multigpu_inference.py \
 
 ## Acknowledgements
 
-Part of the codebase is adapted from [Diversity of Thoughts (DoT)](https://openreview.net/forum?id=ZsP3YbYeE9) (Lingam et al., ICLR 2025). We thank the authors for their open-source contribution.
+Our codebase is adapted from [Diversity of Thoughts (DoT)](https://openreview.net/forum?id=ZsP3YbYeE9) (Lingam et al., ICLR 2025). We thank the authors for their open-source contribution.
