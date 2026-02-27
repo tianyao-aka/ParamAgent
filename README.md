@@ -12,7 +12,7 @@ pip install -r requirements.txt
 export OPENAI_API_KEY=<your key>
 ```
 
-3. (Optional) For Together AI models:
+3. For Together AI models:
 ```bash
 export TOGETHER_API_KEY=<your key>
 ```
