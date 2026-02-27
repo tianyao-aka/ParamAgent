@@ -33,7 +33,7 @@ python LoRA_Llama3_Code_multigpu_inference.py \
     --base_model meta-llama/Meta-Llama-3.1-8B-Instruct \
     --lora_path TianJun1/lora-llama3-8b-code \
     --input_jsonl benchmarks/humaneval_full.jsonl \
-    --output_jsonl benchmarks/code_pitfalls/humaneval_pitfalls.jsonl \
+    --output_jsonl benchmarks/code_pitfalls/humaneval_pitfalls_llama3_8b.jsonl \
     --num_gpus 1 --batch_size 1
 ```
 
