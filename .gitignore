@@ -1,0 +1,29 @@
+# Python/cache artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environments
+.env
+.venv/
+venv/
+
+# Runtime outputs
+results/
+outputs/
+generated_reflections/
+
+# Model and adapter artifacts
+lora-*/
+LoRA/
+models/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
